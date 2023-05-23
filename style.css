@@ -1,0 +1,43 @@
+
+.container{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 250px;
+ }
+.header{
+  width: 50px;
+  height: 60px;
+  border-style: flex;
+}
+.header img{
+ height:  700px;
+ width: 925px;
+}
+.Side{
+  margin-top: 580px;
+padding: 20px;;
+}
+#Number{
+    color: #919191;
+}
+#text{
+  color:#767676 ;
+}
+.hours button{
+    padding: 9px;
+    border-radius: 22px;
+    border: none;
+    width: 80px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4F4F4F;
+    background-color: #EBEBEB;
+  }
+  #Color {
+   background-color:#DBC5FB;
+   color: #6D00EF;
+  }
+#End{
+    color:#6200EE;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    }
